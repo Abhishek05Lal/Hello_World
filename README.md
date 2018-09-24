@@ -16,11 +16,7 @@ Lastly clicking anywhere on the background, all settings will revert  default co
 but the inputted text won't be deleted and changing text view will appear only the inputted text unless the field is cleared
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src=https://github.com/Abhishek05Lal/Hello_World/issues/1#issue-363264621 width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://github.com/Abhishek05Lal/Hello_World/issues/1#issue-363264621" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
